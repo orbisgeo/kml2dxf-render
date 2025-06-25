@@ -1,4 +1,4 @@
 Flask
 geopandas
 ezdxf
-gunicorn # Servidor web para produção
+gunicorn
